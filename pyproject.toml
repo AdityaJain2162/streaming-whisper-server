@@ -30,9 +30,9 @@ dependencies = [
     "PyAudio==0.2.14",
     "scipy==1.13.0",
     "soundfile==0.12.1",
-    "tokenizers==0.15",
-    "torch==2.3.1",
-    "torchaudio==2.1.2",
+    "tokenizers==0.19.1",
+    "torch==2.2.0",
+    "torchaudio==2.2.0",
     "websocket_client==1.7.0",
     "websockets==12.0"
 ]
